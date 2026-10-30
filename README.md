@@ -36,7 +36,7 @@ You need three values from a real Pokemon GO Plus:
 - **Device key** — 16 bytes
 - **Blob** — 256 bytes
 
-Tools like [gogplusplus](https://github.com/PokeAPI/goPlusPlus) can dump these. Keep them private.
+Tools like [Suota-Go-Plus](https://github.com/Jesus805/Suota-Go-Plus) can dump these. Keep them private.
 
 ### 2. Fill in secrets.h
 
